@@ -1,3 +1,10 @@
+# EXCEL FUNCTIONS
+
+- This shows how to find the Grand Total, Average Salary, Highest Salary, Lowest Salary, Total No of Staff, Fourth Highest Salary, Third Lowest Salary in excel
+
+![Excel Functions - 1](https://github.com/user-attachments/assets/f797cb66-e7f8-4fe5-9885-de192f794656)
+
+
 # EXCEL--PIVOT-TABLE-
 ![Lita- Pivot 1](https://github.com/user-attachments/assets/aca09936-5ae0-40fd-aeb2-0905c168f1ec)
 
